@@ -35,6 +35,6 @@ La **Agenda 2030** y los **Objetivos de Desarrollo Sostenible (ODS)**, impulsado
 
 ---
 
-[Círculo de los ODS](assets/circulo_ods)
+![Círculo de los ODS](assets/circulo_ods)
 
 [➡️ Ir a mi ODS individual]()
