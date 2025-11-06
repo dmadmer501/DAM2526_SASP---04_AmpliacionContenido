@@ -1,5 +1,48 @@
-# ODS 9 – Industria, innovación e infraestructura
+# ⚙️ ODS 9 – Industria, innovación e infraestructura
 
-Este objetivo busca fomentar una industrialización sostenible y promover la innovación.
+El **ODS 9** busca construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación.
 
-La tecnología tiene un papel clave en mejorar la eficiencia energética, la automatización y la gestión de recursos.
+---
+
+## 🌐 Relación con la tecnología
+
+La informática y las tecnologías digitales son herramientas clave para crear industrias más eficientes, seguras y sostenibles.  
+Permiten optimizar el uso de energía, automatizar procesos y reducir residuos.
+
+---
+
+## 🚨 Problemas y retos del ODS 9
+
+| Problema | Impacto | Solución tecnológica |
+|-----------|----------|----------------------|
+| Alto consumo energético en centros de datos | Aumento de emisiones de CO₂ | Uso de energías renovables e IA para optimizar consumo. |
+| Brecha digital en zonas rurales | Falta de acceso a oportunidades | Proyectos de conectividad y redes sostenibles. |
+| Obsolescencia rápida de dispositivos | Generación de residuos electrónicos | Economía circular y reciclaje de materiales tecnológicos. |
+
+---
+
+## 💡 Ejemplos reales
+
+- **Google Cloud** usa inteligencia artificial para reducir el consumo energético de sus centros de datos.  
+- **Fairphone** fabrica teléfonos modulares y reparables, reduciendo residuos electrónicos.  
+- **Unión Europea** promueve proyectos de *Green Data Centers* para industrias más sostenibles.
+
+---
+
+## 📊 Indicadores
+
+- % de energía renovable usada en centros tecnológicos.  
+- Tasa de reciclaje de dispositivos.  
+- Número de proyectos de innovación sostenible.
+
+---
+
+## 🤝 Otros ODS relacionados
+
+- [ODS 7 – Energía asequible y no contaminante](index.md): ambos buscan mejorar la eficiencia energética.
+- [ODS 12 – Producción y consumo responsables](index.md): promueven la reducción de residuos electrónicos.
+- [ODS 13 – Acción por el clima](index.md): comparten el objetivo de reducir las emisiones de CO₂.
+
+---
+
+[⬅️ Volver al inicio](index.md) | [💭 Ir a la reflexión](reflexion.md)
