@@ -1,4 +1,4 @@
-# ODS 9 — Industria, innovación e infraestructura
+# ODS 9 — Industria, innovación e infraestructura.
 
 El **ODS 9** busca desarrollar infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación. Su objetivo es garantizar que el progreso técnico y económico se haga de manera inclusiva, eficiente y respetuosa con el medio ambiente.
 
