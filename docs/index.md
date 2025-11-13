@@ -1,7 +1,6 @@
 # Bienvenido
-- [ODS09 Industria](/DAM2526_SASP---04_AmpliacionContenido/ods09-industria/)
-- [Reflexión](/DAM2526_SASP---04_AmpliacionContenido/reflexion/)
-- [Assets](/DAM2526_SASP---04_AmpliacionContenido/assets/)
+- [ODS09 Industria](/DAM2526_SASP---04_AmpliacionContenido/ods09-industria.md/)
+- [Reflexión](/DAM2526_SASP---04_AmpliacionContenido/reflexion.md/)
 
 # ODS 9 — Industria, innovación e infraestructura.
 
