@@ -2,7 +2,7 @@
 
 El **ODS 9** busca desarrollar infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación. Su objetivo es garantizar que el progreso técnico y económico se haga de manera inclusiva, eficiente y respetuosa con el medio ambiente.
 
-## Relación del ODS 9 con la tecnología
+## Relación del ODS 9 con la tecnología.
 La informática es uno de los pilares del ODS 9, ya que:
 - Permite crear infraestructuras digitales que soportan la innovación (redes, servidores, cloud).
 - Facilita la automatización y mejora la productividad industrial.
