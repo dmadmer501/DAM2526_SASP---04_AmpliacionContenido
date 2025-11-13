@@ -14,4 +14,3 @@ Sin embargo, todavía cuesta aplicar políticas sostenibles por falta de concien
 
 Me comprometo a seguir aprendiendo sobre sostenibilidad digital y a aplicar en mi trabajo soluciones que reduzcan la huella ecológica del software.
 
-[⬅️ Volver al inicio](index.md)
