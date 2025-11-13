@@ -1,4 +1,4 @@
-# Sostenibilidad y tecnología
+# Sostenibilidad y tecnología 
 
 La sostenibilidad es la capacidad de satisfacer las necesidades del presente sin comprometer los recursos de las generaciones futuras. En el sector tecnológico, este concepto es fundamental porque la digitalización depende de infraestructuras que consumen energía, producen residuos electrónicos y afectan a la sociedad y a la economía. Ser sostenible implica equilibrar el avance tecnológico con el cuidado del medio ambiente, la justicia social y un desarrollo económico responsable.
 
