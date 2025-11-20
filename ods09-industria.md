@@ -43,7 +43,7 @@ La tecnología puede tener efectos positivos, como la eficiencia energética o l
 - Índice de acceso a Internet en zonas rurales.
 
 ## Imagen relacionada
-![ODS 9](/DAM2526_SASP---04_AmpliacionContenido/assets/ods9.png)
+![ODS 9](docs/assets/ODS09.JPG)
 
 ## Otros ODS relacionados
 - **ODS 7 — Energía asequible y no contaminante:** ambos trabajan para reducir el consumo energético de las infraestructuras digitales.  
