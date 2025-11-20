@@ -34,4 +34,4 @@ A continuación, se muestran tres ODS especialmente conectados con el sector tec
 | **ODS 12 — Producción y consumo responsables** | Gestión de residuos electrónicos, economía circular y diseño sostenible de hardware. |
 
 ## Imagen relacionada con los ODS
-![Círculo de los ODS](/DAM2526_SASP---04_AmpliacionContenido/assets/circulo_ods.png)
+![Círculo de los ODS](docs/assets/circulo_ods)
