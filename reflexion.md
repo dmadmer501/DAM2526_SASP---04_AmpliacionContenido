@@ -8,3 +8,4 @@ Las empresas tecnológicas tienen un papel enorme en la sostenibilidad global, y
 
 A nivel personal, me comprometo a seguir aprendiendo sobre eficiencia energética en software, a reducir mi propia huella digital y a promover buenas prácticas en cualquier equipo de trabajo del que forme parte. La tecnología debe ser una herramienta para mejorar el mundo, no para dañarlo.
 
+[Volver al inicio](reflexion.md)
