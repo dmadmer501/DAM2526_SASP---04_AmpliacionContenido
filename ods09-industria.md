@@ -49,3 +49,5 @@ La tecnología puede tener efectos positivos, como la eficiencia energética o l
 - **ODS 7 — Energía asequible y no contaminante:** ambos trabajan para reducir el consumo energético de las infraestructuras digitales.  
 - **ODS 12 — Producción y consumo responsables:** se relaciona con el reciclaje y el diseño sostenible de dispositivos tecnológicos.  
 - **ODS 4 — Educación de calidad:** la innovación TIC facilita el acceso a educación digital y nuevas oportunidades de formación.
+
+[Volver al inicio](index.md)
