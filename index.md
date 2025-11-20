@@ -35,7 +35,8 @@ A continuación, se muestran tres ODS especialmente conectados con el sector tec
 
 ## Imagen relacionada con los ODS
 ![Círculo de los ODS](docs/assets/circulo_ods)
-[Ir a ODS](ods09-indutria.md)
+
+[Ir a ODS](ods09-industria.md)
 [Reflexión](reflexion.md)
 
 
